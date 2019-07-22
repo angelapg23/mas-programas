@@ -19,7 +19,7 @@ namespace ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Dios es amor");
+            MessageBox.Show("Dios es amor y verdad");
         }
     }
 }
