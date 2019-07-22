@@ -7,3 +7,6 @@ c:\users\hp 1000-1401\documents\visual studio 2015\Projects\holamundo\holamundo\
 c:\users\hp 1000-1401\documents\visual studio 2015\Projects\holamundo\holamundo\obj\Debug\holamundo.csproj.GenerateResource.Cache
 c:\users\hp 1000-1401\documents\visual studio 2015\Projects\holamundo\holamundo\obj\Debug\holamundo.exe
 c:\users\hp 1000-1401\documents\visual studio 2015\Projects\holamundo\holamundo\obj\Debug\holamundo.pdb
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\holamundo\holamundo\bin\Debug\holamundo.exe.config
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\holamundo\holamundo\obj\Debug\holamundo.exe
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\holamundo\holamundo\obj\Debug\holamundo.pdb
