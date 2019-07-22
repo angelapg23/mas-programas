@@ -1,0 +1,9 @@
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\bin\Debug\ventas.exe.config
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\bin\Debug\ventas.exe
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\bin\Debug\ventas.pdb
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\obj\Debug\ventas.csprojResolveAssemblyReference.cache
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\obj\Debug\ventas.Form1.resources
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\obj\Debug\ventas.Properties.Resources.resources
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\obj\Debug\ventas.csproj.GenerateResource.Cache
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\obj\Debug\ventas.exe
+C:\Users\HP 1000-1401\Desktop\repositorioanpg\ventas\ventas\obj\Debug\ventas.pdb
